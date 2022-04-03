@@ -39,7 +39,7 @@ let data = [
     {
         image: "https://raw.githubusercontent.com/portalthree/tweetch2/master/!dotted_Sprite-0004-export.png",
         label: "Start Button",
-        pos: [0, 0],
+        pos: [0, 4],
         size: [1000, 1000],
         opacity: 1,
     },
