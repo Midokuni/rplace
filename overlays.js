@@ -27,7 +27,7 @@ let data = [
         opacity: 1,
     },
     {
-        image: "https://cdn.discordapp.com/attachments/959617264640983040/960044445275930644/rplace_Template_3.png",
+        image: "https://cdn.discordapp.com/attachments/959617264640983040/960239319417757706/rplace_Template_3.png",
         label: "Blue Archive Base 1 - Hifumi + Forkbot",
         pos: [136, 963],
         size: [162/3, 111/3],
@@ -48,6 +48,13 @@ let data = [
         label: "Jerma Sus",
         pos: [0, 0],
         size: [1000, 1000],
+        opacity: 1,
+    },
+    {
+        image: "https://www.dropbox.com/s/0o6u1a0771qfd6d/overlay.png?raw=1",
+        label: "Gacha Alliance",
+        pos: [0,0],
+        size: [2000,2000],
         opacity: 1,
     }
 ]
