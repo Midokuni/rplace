@@ -44,7 +44,7 @@ let data = [
         opacity: 1,
     },
     {
-        image: "https://i.imgur.com/WWdAvzx.png",
+        image: "https://i.imgur.com/YkONOtj.png",
         label: "Jerma Sus",
         pos: [0, 0],
         size: [1000, 1000],
