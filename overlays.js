@@ -21,14 +21,14 @@
 let data = [
     {
         image: "https://cdn.discordapp.com/attachments/959617264640983040/960001462459588640/rplace_Template_2.png",
-        label: "Base 3 - Arona + Shiroko",
+        label: "Blue Archive Base 3 - Arona + Shiroko",
         pos: [1621, 441],
         size: [90/3, 139/3],
         opacity: 1,
     },
     {
         image: "https://cdn.discordapp.com/attachments/959617264640983040/960044445275930644/rplace_Template_3.png",
-        label: "Base 1 - Hifumi + Forkbot",
+        label: "Blue Archive Base 1 - Hifumi + Forkbot",
         pos: [136, 963],
         size: [162/3, 111/3],
         opacity: 1,
