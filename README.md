@@ -1,6 +1,8 @@
 # rplace
 r/place layouts 
 
+Centralized Script for overlaying the templates for r/place Alliances
+
 1. Get the correct extension for your browser:
 Chrome: https://www.tampermonkey.net/
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/
