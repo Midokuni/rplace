@@ -33,6 +33,9 @@ let data = [
         size: [162/3, 111/3],
         opacity: 1,
     },
+    // The following two use pos = 0,0 and size = 1000,1000 because they are images that cover the entire canvas 
+    // (well entire canvas before expansion that is)
+    // From what I noticed these are what most people are using.
     {
         image: "https://raw.githubusercontent.com/portalthree/tweetch2/master/!dotted_Sprite-0004-export.png",
         label: "Start Button",
