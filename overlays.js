@@ -19,15 +19,18 @@
 //                                                  |
 // opacity = set this to 1. to change only on emergency.
 let data = [
+    // No need to update image url for BLUE ARCHIVE. 
+    // Just update pos/size if needed
+    // Updates to the images are to be done in the github repository.
     {
-        image: "https://cdn.discordapp.com/attachments/959617264640983040/960001462459588640/rplace_Template_2.png",
+        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/arona-b3.png",
         label: "Blue Archive Base 3 - Arona + Shiroko",
         pos: [1621, 441],
         size: [90/3, 139/3],
         opacity: 1,
     },
     {
-        image: "https://cdn.discordapp.com/attachments/959617264640983040/960239319417757706/rplace_Template_3.png",
+        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/hifu-b1.png",
         label: "Blue Archive Base 1 - Hifumi + Forkbot",
         pos: [136, 963],
         size: [162/3, 111/3],
