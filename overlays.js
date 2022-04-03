@@ -39,7 +39,7 @@ let data = [
     {
         image: "https://raw.githubusercontent.com/portalthree/tweetch2/master/!dotted_Sprite-0004-export.png",
         label: "Start Button",
-        pos: [0, 4],
+        pos: [0, 4], // r/placestart community requested to put the button/overlay all the way to the bottom.
         size: [1000, 1000],
         opacity: 1,
     },
