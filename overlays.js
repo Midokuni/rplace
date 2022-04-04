@@ -36,13 +36,6 @@ let data = [
         size: [162/3, 156/3],
         opacity: 1,
     },
-    {
-        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/miyu-nb1.png",
-        label: "Blue Archive Miyu",
-        pos: [16, 944],
-        size: [138/3, 144/3],
-        opacity: 1
-    },
     // The following two use pos = 0,0 and size = 1000,1000 because they are images that cover the entire canvas 
     // (well entire canvas before expansion that is)
     // From what I noticed these are what most people are using.
@@ -59,6 +52,13 @@ let data = [
         pos: [0,0],
         size: [2000,2000],
         opacity: 1,
+    },
+    {
+        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/miyu-nb1.png",
+        label: "Blue Archive Miyu",
+        pos: [16, 944],
+        size: [138/3, 144/3],
+        opacity: 1
     }
 ]
 
