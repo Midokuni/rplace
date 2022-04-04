@@ -54,7 +54,7 @@ let data = [
         opacity: 1,
     },
     {
-        image: "https://i.imgur.com/YkONOtj.png",
+        image: "https://cdn.discordapp.com/attachments/959631989168824332/960458070784376912/tempsheetoratsiIva.png",
         label: "Jerma Sus",
         pos: [0, 0],
         size: [1000, 1000],
