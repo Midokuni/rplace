@@ -54,7 +54,7 @@ let data = [
         opacity: 1,
     },
     {
-        image: "https://www.dropbox.com/s/0o6u1a0771qfd6d/overlay.png?raw=1",
+        image: "https://www.dropbox.com/s/jr4crnn654mjxwz/overlay.png?raw=1",
         label: "Gacha Alliance",
         pos: [0,0],
         size: [2000,2000],
