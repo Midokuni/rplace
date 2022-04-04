@@ -30,7 +30,7 @@ let data = [
         opacity: 1,
     },
     {
-        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/hifu-b1.png",
+        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/hifu-b1fix.png",
         label: "Blue Archive Base 1 - Hifumi + Forkbot",
         pos: [136, 963],
         size: [162/3, 156/3],
