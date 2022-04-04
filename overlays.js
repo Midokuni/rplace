@@ -47,13 +47,6 @@ let data = [
     // (well entire canvas before expansion that is)
     // From what I noticed these are what most people are using.
     {
-        image: "https://raw.githubusercontent.com/portalthree/tweetch2/master/!dotted_Sprite-0004-export.png",
-        label: "Start Button",
-        pos: [0, 0], 
-        size: [1000, 1000],
-        opacity: 1,
-    },
-    {
         image: "https://cdn.discordapp.com/attachments/959631989168824332/960458070784376912/tempsheetoratsiIva.png",
         label: "Jerma Sus",
         pos: [0, 0],
