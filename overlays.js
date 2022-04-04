@@ -37,7 +37,7 @@ let data = [
         opacity: 1,
     },
     {
-        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/template_MiyuTrash5.png",
+        image: "https://raw.githubusercontent.com/Midokuni/rplace/main/img/miyu-nb1.png",
         label: "Blue Archive Miyu",
         pos: [16, 944],
         size: [138/3, 144/3],
